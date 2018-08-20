@@ -1,69 +1,81 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# browser-template
+# Charity Coders
 
-A project to connect software developers that want to give their knowledge for free with organizations looking for develop web sites or applications
+- `This was my second project at General Assembly boot camp and consists of developing a client app to consume an api developed with Ruby on Rails.`
 
-## Installation
+## Links
 
-1. [Download](../../archive/master.zip) this template.
-1. Move to the `wdi/projects` directory, then unzip the template directory with
-    `unzip /Users/<user-name>/Downloads/browser-template-master.zip`.
-1. Rename the template directory from `browser-template-master` to
-    `<project-name>-client`.
-1. Empty [`README.md`](README.md) and fill with your own content.
-1. Replace all instances of `ga-wdi-boston.browser-template` with the name of
-    your project.
-1. Move into the new project and `git init`.
-1. Add all of the files in your project with the command `git add --all`.
-      - **Note: This is the only time you should run this command!**
-1. Commit all of your files with the command `git commit`.
-      - Your commit title should read `Initial commit`.
-1. Install dependencies with `npm install`.
-1. Create a new repository on [github.com](https://github.com),
-    _not GitHub Enterprise_.
-1. Name the new repository with the same name used on Step 3.
+- `Client project :`  https://fvargasg.github.io/tracking-project-client
+- `Api project    :` https://secret-meadow-81980.herokuapp.com
 
-## Structure
+## Development process and problem-solving strategy
 
-Developers should store JavaScript files in [`assets/scripts`](assets/scripts).
-The "manifest" or entry-point is
-[`assets/scripts/index.js`](assets/scripts/index.js). In general, only
-application initialization goes in this file. It's normal for developers to
-start putting all code in this file, but encourage them to break out different
-responsibilities and use the `require` syntax put references where they're
-needed.
+I created user stories that project was going to have.
+I created Entity Relationship Diagram (ERD) tha project was going to have.
+I created the neccesary wire frames for the project.
 
-Developers should set `apiUrls.production` and `apiUrls.development` in
-[`config/environment.js`](config/environment.js).  With
-`apiUrls` set, developers may rely on `apiUrl` as the base for API
-URLs.
+I started the backend api first and then the front end client.
 
-Developers should store styles in [`assets/styles`](assets/styles) and load them
-from [`assets/styles/index.scss`](assets/styles/index.scss). Bootstrap version 3 is
-included in this template.
+I deployed both projects online.
 
-Developers should use [getFormFields](get-form-fields.md) to retrieve form data
-to send to an API.
 
-To deploy a browser-template based SPA, run `grunt deploy`.
+## List unsolved problems
+ There is not more features to implement in the future.
+## User stories
 
-## Tasks
+Accounts
 
-Developers should run these often!
+- `As a volunteer I want to the system allows me to create an account.`
+- `As a volunteer I want to the system allows me to sign in.`
+- `As a volunteer I want to the system allows me to sign out.`
+- `As a volunteer I want to the system allows me to change my password.`
+- `As a volunteer I want to the system allows me to create a profile with my software development skills, contact information etc.`
+- `As a volunteer I want to the system allows us to search organizations or persons interested in build a web site or application.`
+- `As a volunteer I want to math with organizations looking for software developers to build web sites or applications.`
+- `As a volunteer I want to visualize web sites or applications that I participated in the past.`
 
-- `grunt nag` or just `grunt`: runs code quality analysis tools on your code
-    and complains
-- `grunt make-standard`: reformats all your code in the JavaScript Standard Style
-- `grunt <server|serve|s>`: generates bundles, watches, and livereloads
-- `grunt test`: runs any automated tests, depends on `grunt build`
-- `grunt build`: place bundled styles and scripts where `index.html` can find
-    them
+Organizations
 
-## Additional Resources
+- `As an organization we want to the system allows us to create an account.`
+- `As an organization we want to the system allows us to create projects with descriptions of what we are trying to build.`
+- `As an organization we want to the system allows us to math with software developers interested in donate their skills in software   development.`
+- `As an organization we want to the system allows us to give feedback and references about the software developers that participated in our projects.`
 
-- [Modern Javascript Explained for Dinosaurs](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70)
-- [Making Sense of Front End Build Tools](https://medium.freecodecamp.org/making-sense-of-front-end-build-tools-3a1b3a87043b)
+## ERD
+
+https://imgur.com/a/FyHhMVD
+
+## Wireframes
+
+- `Dashboard` https://imgur.com/KmWAXm8 
+- `Account` https://imgur.com/gv9Mp6D
+
+## Used tecnologies
+
+- `Html`
+- `Css`
+- `Boostrap`s
+- `JavaScript`
+- `Jquery`
+- `Ajax`
+- `MongoDb`
+- `Moongoose`
+- `ExpressJs`
+
+Built With Jquery Bootstrap Html Ajax Javascripts Css3 SASS
+
+I used HTML5 to build the basic structure of the app and CSS3, SASS and Bootstrap to style.
+
+The forms and modals were done using Bootstrap.
+
+Javascript is used to send AJAX calls and jQuery is used to interact with the DOM and update the view 
+
+## Author
+
+- `Fausto Vargas`
+
+- `Version 1.0`
 
 ## [License](LICENSE)
 
