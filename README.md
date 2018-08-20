@@ -2,9 +2,7 @@
 
 # browser-template
 
-A template for starting front-end projects. Webpack for `require` system, build
-pipeline, and development server. Boostrap and Handlebars.js included. No
-front-end frameworks included.
+A project to connect software developers that want to give their knowledge for free with organizations looking for develop web sites or applications
 
 ## Installation
 
