@@ -2,7 +2,11 @@
 
 # Charity Coders
 
-- `This was my second project at General Assembly boot camp and consists of developing a client app to consume an api developed with Ruby on Rails.`
+- `This was my last project at General Assembly boot camp and consists of developing a client app to consume an api developed with Mongoose, ExpressJs and MongoDb.`
+
+A project to connect software developers that want to shared their knowledge building web sites and applications whith organizations or persons interested in build web sites and applications.
+
+This is a good choice for entry level developers to implement their knowledge and add value to their portfolio.
 
 ## Links
 
@@ -62,6 +66,7 @@ https://imgur.com/a/FyHhMVD
 - `MongoDb`
 - `Moongoose`
 - `ExpressJs`
+- `NodeJs`
 
 Built With Jquery Bootstrap Html Ajax Javascripts Css3 SASS
 
