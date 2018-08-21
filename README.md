@@ -1,12 +1,12 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Charity Coders
+# Charity Coders RI
 
-- `This was my last project at General Assembly boot camp and consists of developing a client app to consume an api developed with Mongoose, ExpressJs and MongoDb.`
-
-A project to connect software developers that want to shared their knowledge building web sites and applications whith organizations or persons interested in build web sites and applications.
+A project to connect software developers that want to shared their knowledge building web sites and applications with organizations or persons interested in build web sites and applications.
 
 This is a good choice for entry level developers to implement their knowledge and add value to their portfolio.
+
+This was my last project at General Assembly boot camp and consists of developing a client app to consume an api developed with Mongoose, ExpressJs and MongoDb.
 
 ## Links
 
